@@ -1,0 +1,5 @@
+2023-07-27 07:08:46.203 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ada/.vscode/extensions
+2023-07-27 07:08:46.816 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/ada/.vscode/extensions Unable to create file 'vscode-userdata:/home/ada/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-07-27 07:08:46.816 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ada/.vscode/extensions
+2023-07-27 07:10:29.702 [info] Getting Manifest... transcode.transcode
+2023-07-27 07:10:29.728 [info] Installing extension: transcode.transcode

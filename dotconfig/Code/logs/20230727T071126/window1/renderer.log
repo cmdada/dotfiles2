@@ -1,0 +1,19 @@
+2023-07-27 07:11:44.229 [info] [perf] Render performance baseline is 67ms
+2023-07-27 07:12:35.095 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:12:52.748 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:13:19.937 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:14:05.211 [error] Error while searching for themes: XHR failed
+2023-07-27 07:14:05.218 [error] XHR failed: Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:14:55.372 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:14:55.381 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:18:20.017 [error] Problem installing extension ruby0b.pride-themes net::ERR_CONNECTION_RESET
+2023-07-27 07:18:20.067 [error] net::ERR_CONNECTION_RESET: Download: net::ERR_CONNECTION_RESET
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)

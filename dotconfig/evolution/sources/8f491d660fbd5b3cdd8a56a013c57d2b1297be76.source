@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=setessar@gmail.com
+Enabled=true
+Parent=8f13bd3f53edd318326d1eebd8bdccc373a0f9e7
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=setessar@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

@@ -1,0 +1,2 @@
+2023-09-22 09:05:06.365 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/run/user/1000/gvfs/dav:host=server,port=10081,ssl=false,prefix=%2Fremote.php%2Fwebdav/Readme.md","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-22 09:05:28.698 [info] [perf] Render performance baseline is 450ms

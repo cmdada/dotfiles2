@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=setessar@gmail.com
+Enabled=true
+Parent=8f13bd3f53edd318326d1eebd8bdccc373a0f9e7
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=8f491d660fbd5b3cdd8a56a013c57d2b1297be76
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=setessar@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

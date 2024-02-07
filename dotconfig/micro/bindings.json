@@ -1,0 +1,8 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "CtrlUnderscore": "lua:comment.comment",
+    "CtrlW": "Find",
+    "CtrlX": "Quit",
+    "CtrlY": "PageUp",
+    "CtrlF": "command:tree"
+}

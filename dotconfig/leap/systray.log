@@ -1,0 +1,53 @@
+2024/01/18 11:46:40 Client expects anon auth
+2024/01/18 11:46:40 Checking for updates...
+2024/01/18 11:46:42 Fetching MOTD for riseup.net
+2024/01/18 11:46:42 WARN Error fetching json from https://static.riseup.net/vpn/motd.json
+2024/01/18 11:46:42 firewall stop
+2024/01/18 11:46:42 Can't find bitmask-root
+2024/01/18 11:46:42 Getting certificate...
+2024/01/18 11:46:42 Fetching gateways...
+2024/01/18 11:46:42 Fetching certificate to /tmp/leap-2614991313/openvpn.pem
+2024/01/18 11:46:42 Post "https://api.black.riseup.net/3/cert": read tcp 10.52.44.46:34708->198.252.153.106:443: read: connection reset by peer
+2024/01/18 11:46:42 From here, api.black.riseup.net resolves to:
+2024/01/18 11:46:42 198.252.153.106
+2024/01/18 11:46:42 198.252.153.67
+2024/01/18 11:46:42 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 11:46:43 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:50404->198.252.153.107:443: read: connection reset by peer
+2024/01/18 11:46:43 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 11:46:43 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:50420->198.252.153.107:443: read: connection reset by peer
+2024/01/18 11:46:58 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 11:46:58 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:43668->198.252.153.107:443: read: connection reset by peer
+2024/01/18 11:46:58 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 11:46:58 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:43678->198.252.153.107:443: read: connection reset by peer
+2024/01/18 11:47:36 Client expects anon auth
+2024/01/18 11:47:36 Checking for updates...
+2024/01/18 11:47:36 Fetching MOTD for riseup.net
+2024/01/18 11:47:37 WARN Error fetching json from https://static.riseup.net/vpn/motd.json
+2024/01/18 11:47:37 firewall stop
+2024/01/18 11:47:37 Can't find bitmask-root
+2024/01/18 11:47:37 Fetching gateways...
+2024/01/18 11:47:37 Can't find bitmask-root
+2024/01/18 11:47:37 Could not find helpers
+2024/01/18 11:47:37 ERROR: no helpers
+2024/01/18 11:47:37 Can't find bitmask-root
+2024/01/18 11:47:37 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 11:47:37 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:33820->198.252.153.107:443: read: connection reset by peer
+2024/01/18 11:47:41 Close: cleanup and vpn shutdown...
+2024/01/18 11:47:41 firewall stop
+2024/01/18 11:47:41 Can't find bitmask-root
+2024/01/18 13:01:17 Client expects anon auth
+2024/01/18 13:01:17 Checking for updates...
+2024/01/18 13:01:18 Fetching MOTD for riseup.net
+2024/01/18 13:01:18 WARN Error fetching json from https://static.riseup.net/vpn/motd.json
+2024/01/18 13:01:18 firewall stop
+2024/01/18 13:01:18 Can't find bitmask-root
+2024/01/18 13:01:18 Fetching gateways...
+2024/01/18 13:01:18 Can't find bitmask-root
+2024/01/18 13:01:18 Could not find helpers
+2024/01/18 13:01:18 ERROR: no helpers
+2024/01/18 13:01:18 Can't find bitmask-root
+2024/01/18 13:01:18 Error fetching eip v3 json:https://api.black.riseup.net/3/config/eip-service.json
+2024/01/18 13:01:18 Error again fetching eip v3 json: Post "https://198.252.153.107/3/config/eip-service.json": read tcp 10.52.44.46:41954->198.252.153.107:443: read: connection reset by peer
+2024/01/18 13:01:28 Close: cleanup and vpn shutdown...
+2024/01/18 13:01:28 firewall stop
+2024/01/18 13:01:28 Can't find bitmask-root

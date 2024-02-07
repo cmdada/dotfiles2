@@ -1,0 +1,19 @@
+2023-07-27 07:15:26.761 [info] Getting Manifest... ruby0b.pride-themes
+2023-07-27 07:15:26.770 [info] Installing extension: ruby0b.pride-themes
+2023-07-27 07:18:19.971 [error] Error while installing the extension: ruby0b.pride-themes
+2023-07-27 07:18:19.985 [error] Failed to install extension. ruby0b.pride-themes
+2023-07-27 07:18:19.988 [error] Download: net::ERR_CONNECTION_RESET
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-27 07:18:19.988 [error] [uncaught exception in sharedProcess]: net::ERR_CONNECTION_RESET: Download: net::ERR_CONNECTION_RESET
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:86:135269)
+    at async G.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:19783)
+    at async G.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:87:17877)
+2023-07-27 07:18:41.787 [info] Getting Manifest... ruby0b.pride-themes
+2023-07-27 07:18:41.805 [info] Installing extension: ruby0b.pride-themes
+2023-07-27 07:18:48.320 [warning] Extension signature verification failed with error 'UnknownError': ruby0b.pride-themes
+2023-07-27 07:18:48.370 [info] Extracted extension to /home/ada/.vscode/extensions/.de0eac33-f4f8-4786-927b-f553b64fdb78: ruby0b.pride-themes
+2023-07-27 07:18:48.380 [info] Renamed to /home/ada/.vscode/extensions/ruby0b.pride-themes-0.4.1
+2023-07-27 07:18:48.383 [info] Extracting extension completed. ruby0b.pride-themes
+2023-07-27 07:18:48.401 [info] Extension installed successfully: ruby0b.pride-themes

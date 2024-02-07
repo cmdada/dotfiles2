@@ -1,0 +1,7 @@
+[99c5e2f9-40e7-4773-a035-a58224c964d7]
+protocol=rdp
+host=allinone
+uri=rdp://allinone:3389
+scaling=true
+resize-supported=true
+scale-mode=resize-desktop

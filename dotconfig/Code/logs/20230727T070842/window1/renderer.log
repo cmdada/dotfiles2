@@ -1,0 +1,7 @@
+2023-07-27 07:08:45.274 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ada/.vscode/extensions
+2023-07-27 07:08:46.408 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ada/.vscode/extensions
+2023-07-27 07:08:54.017 [info] [perf] Render performance baseline is 50ms
+2023-07-27 07:09:16.674 [error] Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)
+2023-07-27 07:10:03.818 [error] XHR failed: Error: XHR failed
+    at y.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:77:1261)

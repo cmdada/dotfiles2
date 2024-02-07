@@ -1,0 +1,24 @@
+[2024-01-29 09:56:37.791] [error] src/electron-main/api/index.ts init "keytar" module is unsupported by the system:  The name is not activatable
+[2024-02-02 10:45:23.461] [error] src/electron-main/api/index.ts init "keytar" module is unsupported by the system:  The name is not activatable
+[2024-02-02 10:46:00.608] [error] src/electron-preload/webview/lib/const.ts [preload: webview/primary] src/electron-preload/webview/primary/index.ts {
+  message: 'ResizeObserver loop completed with undelivered notifications.',
+  filename: 'webclient://mail.proton.me/inbox/<wiped-out>',
+  lineno: 0,
+  colno: 0,
+  error: { message: 'stringified "null"' }
+}
+[2024-02-02 12:11:08.995] [error] src/electron-main/api/index.ts init "keytar" module is unsupported by the system:  The name is not activatable
+[2024-02-02 12:12:26.150] [error] src/electron-preload/webview/lib/const.ts [preload: webview/primary] src/electron-preload/webview/primary/index.ts {
+  message: 'ResizeObserver loop completed with undelivered notifications.',
+  filename: 'webclient://mail.proton.me/inbox',
+  lineno: 0,
+  colno: 0,
+  error: { message: 'stringified "null"' }
+}
+[2024-02-02 13:40:32.819] [error] src/electron-preload/webview/lib/const.ts [preload: webview/primary] src/electron-preload/webview/primary/index.ts {
+  message: 'ResizeObserver loop completed with undelivered notifications.',
+  filename: 'webclient://mail.proton.me/inbox/<wiped-out>',
+  lineno: 0,
+  colno: 0,
+  error: { message: 'stringified "null"' }
+}

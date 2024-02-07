@@ -1,0 +1,8 @@
+{
+    "autosu": true,
+    "colorscheme": "good",
+    "filemanager-openonstart": true,
+    "multiopen": "hsplit",
+    "saveundo": true,
+    "scrollbar": true
+}

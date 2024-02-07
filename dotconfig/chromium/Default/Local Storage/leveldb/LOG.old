@@ -1,0 +1,6 @@
+2023/09/21-14:46:41.562 3 Reusing MANIFEST /home/ada/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/21-14:46:41.564 3 Recovering log #6
+2023/09/21-14:46:41.567 3 Reusing old log /home/ada/.config/chromium/Default/Local Storage/leveldb/000006.log 
+2023/09/21-14:50:47.026 5 Level-0 table #10: started
+2023/09/21-14:50:47.053 5 Level-0 table #10: 465318 bytes OK
+2023/09/21-14:50:47.056 5 Delete type=0 #6
